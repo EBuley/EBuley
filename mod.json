@@ -1,0 +1,12 @@
+{
+  "Id": "SubnauticaModding",
+  "DisplayName": "Subnautica Mod",
+  "Author": "Your Mum",
+  "Version": "1.0.0",
+  "Enable": true,
+  "AssemblyName": "SubnauticaModding.dll",
+  "VersionDependencies": {
+    "SMLHelper": "2.9.7"
+  },
+  "Game": "Subnautica"
+}
